@@ -1,1 +1,1 @@
-# Raj_Sun_Analysis_and_Forecasting_Modeled_Data
+# Syntheic Raj_Sun_Analysis_and_Forecasting_Modeled_Data
